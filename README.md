@@ -1,4 +1,4 @@
-# gathsession
+# Gathsession
 
 ## 📌 Descripción
 
